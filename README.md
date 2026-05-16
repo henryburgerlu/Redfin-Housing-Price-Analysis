@@ -1,6 +1,7 @@
 # Objective:
 
-In this project, the goal is to predict the future housing market in Chandler, Arizona, scrapping the listing from Redfin.com by beautifulsoup. 
+In this project, the goal is to assess the housing price drivers and valuation modeling for Chandler, AZ real estate using Redfin data scrapped the listing from Redfin.com by beautifulsoup. 
+
 House Type: The dataset used for this analysis contains single house only.
 
 The analysis will address the following aspects:
