@@ -2,8 +2,9 @@
 
 In this project, the goal is to assess the housing price drivers and valuation modeling for Chandler, AZ real estate using Redfin data scrapped the listing from Redfin.com by beautifulsoup. 
 
-House Type: The dataset used for this analysis contains single house only.
-
+Focus: Single-family homes in Chandler, AZ
+Data source: Redfin listings (scraped)
+Key limitation: School district data not included, which may influence pricing variance
 The analysis will address the following aspects:
 
 Investor Opportunity Analysis
