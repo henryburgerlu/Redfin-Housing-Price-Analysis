@@ -26,7 +26,9 @@ XGBoost
 The analysis will address the following aspects:
 
 Price distribution analysis across buyer and seller perspectives
+
 Identification of pricing patterns and potential mispricing across ZIP codes
+
 Evaluation of key property features influencing housing price variation
 
 Features that could affect pricing not included in this analysis:
