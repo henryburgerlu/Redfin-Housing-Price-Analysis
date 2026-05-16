@@ -47,6 +47,8 @@ Homes without HOA tend to fall between $375K–$800K, while homes with HOA gener
 # Summary:
 As of July 2025:
 
-Buyers: Focus on ZIP codes 85225 and 85249, where our model suggests some listings may be overpriced. These areas are projected to see more urban development, which could strengthen your negotiation position today. Sellers: Sellers in 85225 and 85249 can justify higher listing prices, as these ZIPs show higher buyer tolerance for premium pricing. Investors: Look for undervalued homes with high inventory levels. Properties price predicted value per square foot—especially larger homes—represent opportunities for strong rental yields or resale margins.
+ZIP codes 85225 and 85249 show higher variability in pricing, with model predictions indicating potential misalignment between listing prices and estimated property values.These areas also reflect different pricing distributions, suggesting localized differences in buyer demand and pricing behavior.
 
-Both XGBoost and Random Forest models identify square footage as the most influential factor in determining home value per square foot. This indicates pricing sensitivity to home size throughout Chandler. By locating larger homes priced below their predicted value per square foot, we can identify undervalued properties—ideal targets for investors or leverage points for buyer negotiations.
+Both XGBoost and Random Forest models identify square footage as the most influential feature in determining home price, highlighting strong sensitivity of pricing to home size across Chandler.
+
+Homes with larger square footage show greater variance between predicted and actual pricing, which may indicate areas for further investigation into pricing efficiency.
