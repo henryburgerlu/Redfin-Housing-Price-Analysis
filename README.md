@@ -10,11 +10,17 @@ Key limitation: School district data not included, which may influence pricing v
 
 Methodology:
 Data scraping using BeautifulSoup
+
 Data cleaning and preprocessing
+
 Exploratory data analysis (price distribution, correlations)
+
 Feature importance analysis
+
 Predictive modeling using:
+
 Random Forest
+
 XGBoost
 
 The analysis will address the following aspects:
